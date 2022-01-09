@@ -4930,9 +4930,9 @@
   (symbol (lib_id "Device:D_TVS") (at 127 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 85403478-e9e6-4779-a099-3a7240d8f2b9)
-    (property "Reference" "D?" (id 0) (at 127 150.9735 0))
+    (property "Reference" "D14" (id 0) (at 127 150.9735 0))
     (property "Value" "D_TVS" (id 1) (at 127 153.7486 0))
-    (property "Footprint" "" (id 2) (at 127 156.21 0)
+    (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 127 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127 156.21 0)
@@ -6343,7 +6343,7 @@
       (reference "D13") (unit 1) (value "CUHS20S60H3F") (footprint "Diode_additional:D_US2A")
     )
     (path "/85403478-e9e6-4779-a099-3a7240d8f2b9"
-      (reference "D?") (unit 1) (value "D_TVS") (footprint "")
+      (reference "D14") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMA")
     )
     (path "/3ac09f5a-d45d-4bb0-8f7e-22f2f3c3e2b2"
       (reference "FB1") (unit 1) (value "60Ohm 100MHz") (footprint "Inductor_SMD:L_0603_1608Metric")

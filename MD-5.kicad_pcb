@@ -3974,6 +3974,12 @@
   (gr_arc (start 132.08 140.335) (mid 131.181974 139.963026) (end 130.81 139.065) (layer "Edge.Cuts") (width 0.1) (tstamp cf3999b3-aa12-46a2-8146-f796b44b4796))
   (gr_line (start 190.5 100.33) (end 132.08 100.33) (layer "Edge.Cuts") (width 0.1) (tstamp dc14fa78-45e3-41aa-8f86-50ec34df98d0))
   (gr_arc (start 130.81 101.6) (mid 131.181974 100.701974) (end 132.08 100.33) (layer "Edge.Cuts") (width 0.1) (tstamp ea875da0-4321-4e44-994f-c3e13649535a))
+  (gr_text "MD-5_v0" (at 135.509 122.047 270) (layer "B.SilkS") (tstamp aa95d6eb-61a1-46de-9823-1ac851e53563)
+    (effects (font (size 1.5 1.5) (thickness 0.2)) (justify mirror))
+  )
+  (gr_text "Designed by paripal" (at 133.35 119.507 270) (layer "B.SilkS") (tstamp d4512ec7-3389-4b56-9e8b-bdbd8a828957)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
 
   (segment (start 136.964489 102.609712) (end 137.339201 102.235) (width 0.25) (layer "F.Cu") (net 1) (tstamp 05af9887-b6b8-40c2-83b8-6334e218422d))
   (segment (start 136.964489 104.560237) (end 136.964489 102.609712) (width 0.25) (layer "F.Cu") (net 1) (tstamp 5854efb2-5006-4edd-8227-6866a9d36464))
